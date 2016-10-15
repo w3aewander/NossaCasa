@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>
+    <add name="RestauranteDB" 
+         connectionString="data source=C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\db\Restaurante.sqlite3" 
+         providerName="System.Data.Sqlite"/>
+  </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>

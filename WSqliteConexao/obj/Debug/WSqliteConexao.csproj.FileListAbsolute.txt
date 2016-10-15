@@ -1,0 +1,13 @@
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\WSqliteConexao.dll.config
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\WSqliteConexao.dll
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\WSqliteConexao.pdb
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\EntityFramework.dll
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\EntityFramework.xml
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\obj\Debug\WSqliteConexao.dll
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\NossaCasa\WSqliteConexao\obj\Debug\WSqliteConexao.pdb

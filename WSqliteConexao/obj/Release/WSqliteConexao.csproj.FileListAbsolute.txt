@@ -1,0 +1,13 @@
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\WSqliteConexao.dll.config
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\WSqliteConexao.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\WSqliteConexao.pdb
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\EntityFramework.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\System.Data.SQLite.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\EntityFramework.xml
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\bin\Release\System.Data.SQLite.xml
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\obj\Release\WSqliteConexao.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\WSqliteConexao\obj\Release\WSqliteConexao.pdb

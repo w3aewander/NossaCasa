@@ -1,0 +1,17 @@
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\bin\Release\NossaCasa.exe.config
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\bin\Release\NossaCasa.exe
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\bin\Release\NossaCasa.pdb
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\bin\Release\WSqliteConexao.dll
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\bin\Release\WSqliteConexao.pdb
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.PesquisarForm.resources
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.ProdutoForm.resources
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.MainForm.resources
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.Properties.Resources.resources
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.csproj.GenerateResource.Cache
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.exe
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.pdb
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\bin\Release\NossaCasa.exe.manifest
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\bin\Release\NossaCasa.application
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.csprojResolveAssemblyReference.cache
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.exe.manifest
+C:\Users\Wanderlei\Documents\Visual Studio 2015\Projects\NossaCasa\NossaCasa\obj\Release\NossaCasa.application
